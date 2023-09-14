@@ -1,0 +1,17 @@
+{
+  "hello": {
+    "en": "Hello",
+    "fr": "Bonjour",
+    "es": "Hola"
+  },
+  "goodbye": {
+    "en": "Goodbye",
+    "fr": "Au revoir",
+    "es": "Adiós"
+  },
+  "welcome_message": {
+    "en": "Welcome to our app!",
+    "fr": "Bienvenue dans notre application !",
+    "es": "¡Bienvenido a nuestra aplicación!"
+  }
+}
